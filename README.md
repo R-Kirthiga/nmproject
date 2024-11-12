@@ -54,7 +54,7 @@ SECURITY AND DATA PROTECTION
  Frontend
 - HTML, CSS, JavaScript
 - React (or any chosen frontend framework)
-- Responsive Design*: Bootstrap or Tailwind CSS for responsiveness
+- Responsive Design: Bootstrap or Tailwind CSS for responsiveness
   
  Backend
 - Node.js and Express.js for server-side logic
